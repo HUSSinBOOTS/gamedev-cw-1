@@ -6,7 +6,7 @@ namespace tamreen_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I need healing!");
+            Console.WriteLine("Revive me!");
         }
     }
 }
